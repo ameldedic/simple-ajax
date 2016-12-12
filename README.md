@@ -1,2 +1,2 @@
-# simple-ajax
+# ajax
 ajax demo
